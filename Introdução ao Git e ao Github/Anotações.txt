@@ -1,0 +1,7 @@
+Meu primeiro portifólios de muitos...
+
+Enviar pasta para controle de versao.
+
+- git add .
+- git commit - "Mensagem"
+- git push origin main 
